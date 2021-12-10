@@ -1,0 +1,27 @@
+Atividade final UC13
+
+Criar um teste exploratório no fomulário do sistema com o seu nome.
+
+Para esse teste, você deve separar os elementos em classes e criar os métodos (conforme exemplo dos testes realizados nas últimas aulas).
+
+Criar tbm um cenário de teste (relatório), conforme foi demonstrado nas duas primeiras aulas.
+Pode ser no formato word, ou utilizando o Test & feedback (não esqueçam que no relatório deve conter todos os elementos do formulário)
+
+* Esse teste é para verificar o preenchimento correto dos campos (Deixo livre para aqueles que resolverem realizar um teste tbm de validação).
+
+Observação: Não precisa finalizar o cadastro, clicando no botão de cadastrar (até para questões de segurança ou complicações). Somente o preenchimento dos campos do formulário
+
+Ao finalizar, enviar atividade por e-mail (Prazo final - domingo 30/05/2021)Projeto + relatório
+mglmatiolla@gmail.com
+Assunto: Atividade final UC13 
+Corpo: nome dos alunos + anexo projeto e relatório
+
+Observação: Enviar a atividade somente se o teste estiver preenchendo todos os campos e com o relátorio completo do teste
+#####################################
+Projeto integrador - PI (Prazo final - domingo 30/05/2021)
+Enviar projeto + banco
+mglmatiolla@gmail.com
+Assunto: Projeto PI - turma manhã
+
+1-Ponto Frio - Alveci e stefany
+https://carrinho.pontofrio.com.br/Checkout?Pagina=cadastrar&ReturnUrl=https://carrinho.pontofrio.com.br&Email=#login
